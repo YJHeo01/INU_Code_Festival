@@ -16,15 +16,13 @@ def solution():
     grow = list(map(int,input().split()))
     
     if k > 36:
-        return 10 ** 11 + 1 #수학적 관찰을 통해 알 수 있음
+        return 10 ** 11 + 1
 
     dp = [[0]*(k+1) for _ in range(n+1)]
     
     dp[0][0] = s
     
     for i in range(n):
-        if dp[i][0] > 0:
-            dp[i+1][0] = dp[i][0] + grow[i]
         for j in range(k):
             if dp[i][j] <= 0:
                 continue
