@@ -1,6 +1,6 @@
 <ul>
   <li> 대회 전체 문제: https://www.acmicpc.net/category/detail/4300</li>
-  <li> 전체 해설 : https://www.acmicpc.net/board/view/150495</li>
+  <li> 전체 해설 : https://upload.acmicpc.net/e3735e05-c2d4-49b5-b87d-c5941200b253/ </li>
   <li> 대회 후기 : https://blog.naver.com/thinking_diary/223599867987</li>
   <li> 문제 간단 프리뷰 <br>
     <ul>
